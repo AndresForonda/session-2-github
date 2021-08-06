@@ -1,9 +1,0 @@
-1. git add <filename> | .
-2. git commit -m "<message>"
-3. git push // add upstream
-4. git merge <branch> // add brach changes to the current branch
-5. git pull // retrieve changes from the origin
-6. git pull --prune // retrieve changes and update branches
-7. git branch <branch> // create a branch
-8. git checkout <branch> // switch to a branch
-9. git checkout -b <branch> // create the brach and switch to it
